@@ -1,2 +1,2 @@
-#define SECRET_SSID "MSI 8955"
-#define SECRET_PASS "7]L967z3"
+#define SECRET_SSID "======"
+#define SECRET_PASS "======"
